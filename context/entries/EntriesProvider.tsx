@@ -5,7 +5,7 @@ import { EntriesContext,entriesReducer } from './';
 
 import { PropsWithChildren } from 'react';
 import { Entry } from '../../interfaces';
-import { entriesApi } from '../../apis';
+import { entriesApi } from '../../axiosApis';
 
 
 export interface EntriesState {
