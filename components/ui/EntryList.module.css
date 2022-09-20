@@ -1,0 +1,20 @@
+
+.draggin{
+
+    background-color: rgba(54, 224, 54, 0.021);
+    border: 2px dashed white;
+    border-radius: 10px;
+    transition: all .3s;
+
+
+}
+
+.soltar{
+  display: flex;
+ 
+  width: 100%;
+  
+  justify-content: center;
+  align-items: center;
+    
+}
