@@ -8,7 +8,7 @@ docker-compose up -d
 * El -d, significa __detached__
 
 
-* MongoDB URl Local:
+* MongoDB URL Local:
 ```
 mongodb://localhost:2017/entriesdb
 ```

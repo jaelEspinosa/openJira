@@ -27,11 +27,11 @@ return NextResponse.next()
 // See "Matching Paths" below to learn more
 
 
-export const config = {
+/* export const config = {
  
  matcher: [
 
 '/api/entries/:path*'
  ]
    
-}   
+}   */ 
